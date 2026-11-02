@@ -10,10 +10,10 @@
 
 ## 1. Brand
 
-**Shop name:** **SailAndSeek** ✅ (confirmed available on Etsy)
+**Shop name:** **SailAndSeekStudio** ✅
 
 - It matches your Sail & Seek LLC and app exactly, so every shirt buyer becomes a possible scavenger-hunt customer.
-- Keep the capitalization as `SailAndSeek` everywhere: Etsy, Pinterest, TikTok and Instagram.
+- Keep the capitalization as `SailAndSeekStudio` everywhere: Etsy, Pinterest, TikTok and Instagram.
 - **Next:** claim the same handle on Pinterest, Instagram and TikTok now, before someone else takes it.
 
 **Tagline:** *Matching looks for the whole crew.*
@@ -287,7 +287,7 @@ This is an original design and is not affiliated with or endorsed by any cruise 
 ## 10. 72-hour launch checklist
 
 ### Day 1: Set up and first designs
-- [x] Shop name confirmed: SailAndSeek
+- [x] Shop name confirmed: SailAndSeekStudio
 - [ ] Open the Etsy shop; set up payments, policies and the "about" section
 - [ ] Open a Printify account and connect it to Etsy; choose a US print provider
 - [ ] Run the USPTO check on all 10 shirt phrases and drop any registered for apparel

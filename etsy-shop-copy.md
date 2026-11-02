@@ -1,4 +1,4 @@
-# SailAndSeek: Etsy Shop Copy (ready to paste)
+# SailAndSeekStudio: Etsy Shop Copy (ready to paste)
 
 Where each piece goes is shown in *italics*.
 

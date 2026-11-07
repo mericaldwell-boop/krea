@@ -214,3 +214,71 @@ Fill in every one Etsy offers. Each is a free search filter you can show up unde
 - [ ] Check the Family Cruise personalization instructions match how your Printify text is set up (last name only vs. the full "The Smith Family").
 - [ ] Check that "Buy 6+ save 10%" is actually set up under **Marketing → Sales and discounts**. If not, delete that section from the descriptions.
 - [ ] If your print provider's production time differs, update "2–5 business days."
+
+---
+
+## 4. Girls Trip Badge (Pink & Yellow Chairs)
+Listing: https://www.etsy.com/listing/4611665839
+
+### Title
+```
+Girls Trip Cruise Shirt Personalized Names, Nautical Badge Beach Chair Tee, Matching Best Friend Cruise 2027 Shirts
+```
+
+### Tags
+```
+girls trip shirt
+girls cruise shirt
+girls trip cruise
+custom names shirt
+bachelorette cruise
+best friend cruise
+nautical tee
+cruise 2027 shirt
+besties trip shirt
+birthday cruise tee
+beach chair shirt
+girls getaway tee
+pink yellow shirt
+```
+
+### Description
+```
+Two beach chairs, one ocean view, and your names on them. ⚓
+
+This nautical Girls Trip Cruise 2027 badge puts you and your bestie's names right on the backs of the pink and yellow deck chairs, framed by anchors, laurels, and a rope border. Made for girls' trips, bachelorette cruises, birthday sailings, and best-friend getaways.
+
+★ HOW TO ORDER
+1. Choose your size and shirt color.
+2. In the personalization box, enter 2 names (8 characters max each):
+   Name 1 = pink chair (left), Name 2 = yellow chair (right)
+   Example: Baylee, Emmy
+3. Add to cart. Repeat for each person in your group.
+
+Names print in all capital letters in our playful font, just like the photos.
+
+★ GROUP DISCOUNT
+Buy 6 or more items and save 10% automatically at checkout.
+
+★ SHIRT DETAILS
+• Bella+Canvas 3001 unisex tee: soft, lightweight, and comfortable
+• Unisex sizing (runs slightly large for women). Size down for a fitted look. See the size chart photo.
+• Printed with eco-friendly water-based inks
+
+★ ORDER EARLY
+Each shirt is printed just for you. Please order at least 3 weeks before your sailing date. Production is 2–5 business days, plus 3–7 business days for US shipping.
+
+★ PLEASE NOTE
+Because every shirt is personalized and made to order, we can't accept returns or exchanges for sizing. Please double-check your spelling. We print exactly what you enter. If your order arrives damaged or misprinted, message us within 14 days and we'll make it right.
+
+Not affiliated with or endorsed by any cruise line.
+
+See you on deck! — Sail & Seek Studio
+```
+
+### Personalization instructions
+```
+Enter 2 names, 8 characters max each. Name 1 goes on the pink chair (left), Name 2 on the yellow chair (right). Example: Baylee, Emmy
+```
+
+**Attributes:** same table as above. Style: Nautical (or Retro). Primary color: your main photo's shirt color. Shop section: Girls Trip.

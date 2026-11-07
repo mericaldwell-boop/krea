@@ -48,11 +48,11 @@ Matching looks for the whole crew
 
 **Story:**
 ```
-Hi, I'm Meri — designer, developer, and cruise lover based in Arkansas.
+Hi, I'm Meri — designer and cruise lover based in Arkansas.
 
-Sail & Seek started as a cruise scavenger hunt app I built so families could explore the ship together. Along the way I noticed something on every sailing: the groups having the most fun were the ones who showed up as a crew — matching shirts on embarkation day and decorated cabin doors down every hallway.
+On every sailing I noticed the same thing: the groups having the most fun were the ones who showed up as a crew — matching shirts on embarkation day, photos at the rail, and decorated cabin doors down every hallway.
 
-So I started designing them.
+So I started designing for them.
 
 Every shirt and door kit in this shop is my original design, made to look great in photos and to work for the whole group: adults, kids, and toddlers. Our door decoration kits are editable in Canva so you can add your names, dates, and cabin number in minutes.
 

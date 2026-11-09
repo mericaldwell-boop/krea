@@ -11,3 +11,5 @@ listing, mockup, video, or Pinterest pin.** Folders mirror their original locati
 | `mockups/font-options/` | 12 Cruise Crew font comparison mockups | Final Cruise Crew design |
 | `mockups/options/`, `mockups/dark-wood/`, `mockups/cruise-crew-loading_family-flatlay_white.jpg` | Early Cruise Crew mockup scene tests | `mockups/cruise-crew-loading/` |
 | `mockups/family-cruise/_extracted_design.png` | Working file from an earlier Family Cruise mockup build | `designs/family-cruise_with-sample-name.png` |
+| `designs/cruise-crew-loading/` (PRINT + MOCKUP-SAMPLE, png/svg) | First Cruise Crew design with the name in plain capitals ("THE SMITH FAMILY · CRUISE 2027") | `designs/cruise-crew-loading/cruise-crew_PRINT_current.png` (name + year are Printify text layers in Lucy the Cat) |
+| `mockups/cruise-crew-loading/cruise-crew-loading_ocean-blue.jpg` | Ocean Blue mockup. That color isn't sold on the Cruise Crew shirt | 10-color set in `mockups/cruise-crew-loading/` |

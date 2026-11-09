@@ -50,9 +50,10 @@ def auth_url(keystring):
     challenge = base64.urlsafe_b64encode(hashlib.sha256(verifier.encode()).digest()).rstrip(b"=").decode()
     state = secrets.token_urlsafe(16)
     d = load(); d.update(keystring=keystring, verifier=verifier, state=state); save(d)
-    q = requests.Request("GET", CONNECT_URL, params=dict(
+    from urllib.parse import urlencode, quote
+    q = CONNECT_URL + "?" + urlencode(dict(
         response_type="code", client_id=keystring, redirect_uri=REDIRECT, scope=SCOPES,
-        state=state, code_challenge=challenge, code_challenge_method="S256")).prepare().url
+        state=state, code_challenge=challenge, code_challenge_method="S256"), quote_via=quote)
     print(q)
 
 

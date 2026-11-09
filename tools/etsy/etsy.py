@@ -2,8 +2,8 @@
 """Small Etsy Open API v3 helper for managing the SailAndSeekStudio shop.
 
 Secrets are never stored in this repo:
-  * The API key header (x-api-key: <keystring>:<shared secret>) is injected by the
-    session's network proxy, so this script sends a placeholder value.
+  * The API key (x-api-key: <keystring>:<shared secret>) is read from the
+    ETSY_API_KEY environment variable set in the cloud environment settings.
   * OAuth tokens are kept in ~/.etsy_tokens.json (outside the repo).
 
 Usage:
@@ -28,7 +28,7 @@ CONNECT_URL = "https://www.etsy.com/oauth/connect"
 REDIRECT = "https://localhost:3003/oauth/redirect"
 SCOPES = "listings_r listings_w shops_r shops_w transactions_r"
 STORE = os.path.expanduser("~/.etsy_tokens.json")
-PLACEHOLDER_KEY = "proxy-injects-real-key"
+API_KEY = os.environ.get("ETSY_API_KEY", "")
 
 
 def load():
@@ -88,7 +88,9 @@ def token():
 
 def call(method, path, **kw):
     h = kw.pop("headers", {})
-    h.update({"x-api-key": PLACEHOLDER_KEY, "Authorization": f"Bearer {token()}"})
+    if not API_KEY:
+        sys.exit("ETSY_API_KEY is not set in this session.")
+    h.update({"x-api-key": API_KEY, "Authorization": f"Bearer {token()}"})
     r = requests.request(method, API + path, headers=h, timeout=60, **kw)
     if r.status_code >= 400:
         sys.exit(f"{method} {path} -> {r.status_code}: {r.text[:800]}")

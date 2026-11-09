@@ -7,6 +7,7 @@ Three personalized Kiss-Cut stickers. **Live on Etsy** (published Nov 9, 2026), 
 | Family Cruise 2027 | `6af215966fc14cd1ce0b6289` | `4613478436` | Family Cruise 2027 (`4609487330`) |
 | Anniversary Cruise | `6af21598823b7dd96904f8f9` | `4613486460` | Anniversary Cruise (`4613023056`) |
 | Girls Trip 2027 | `6af21599823b7dd96904f8fc` | `4613489848` | Girls Trip (`4610978521`) |
+| Girls Trip Badge (nautical) | `6af22943823b7dd969050e65` | *(not published yet)* | Girls Trip Badge (`4611665839`) |
 
 **Product:** Kiss-Cut Stickers (#400), Printify Choice. Sizes 3" and 4" are on; 2" and 6" are off.
 **Real Printify cost:** 3" **$1.14**, 4" **$1.44**. US shipping **$4.59** first sticker, **$0.09** each extra.
@@ -52,6 +53,9 @@ family cruise 2027, cruise sticker, cruise tumbler decal, family cruise gift, pe
 
 **Anniversary Cruise sticker**
 anniversary cruise, cruise sticker, couples cruise gift, anniversary gift, honeymoon cruise, cruise tumbler decal, personalized decal, custom name sticker, vow renewal cruise, cruise decal, beach chair sticker, sunset sticker, cruise water bottle
+
+**Girls Trip Badge sticker**
+girls trip sticker, girls trip 2027, girls trip cruise, girls trip gift, bachelorette cruise, best friend gift, cruise stickers, cruise cup decal, personalized cruise, custom cruise decal, nautical sticker, cruise tumbler decal, water bottle decal
 
 **Girls Trip sticker**
 girls trip sticker, girls trip 2027, girls trip cruise, cruise sticker, bachelorette cruise, best friend gift, cruise tumbler decal, personalized decal, custom name sticker, girls weekend, cruise decal, besties sticker, cruise water bottle

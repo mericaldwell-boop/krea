@@ -1,12 +1,12 @@
 # Cruise Sticker Listings: Launch Sheet
 
-Three personalized Kiss-Cut stickers, created as **Printify drafts** (not published yet).
+Three personalized Kiss-Cut stickers. **Live on Etsy** (published Nov 9, 2026), in the **Cruise Stickers** shop section.
 
-| Sticker | Printify draft ID | Matches shirt listing |
-|---|---|---|
-| Family Cruise 2027 | `6af215966fc14cd1ce0b6289` | Family Cruise 2027 (`4609487330`) |
-| Anniversary Cruise | `6af21598823b7dd96904f8f9` | Anniversary Cruise (`4613023056`) |
-| Girls Trip 2027 | `6af21599823b7dd96904f8fc` | Girls Trip (`4610978521`) |
+| Sticker | Printify ID | Etsy listing | Matches shirt listing |
+|---|---|---|---|
+| Family Cruise 2027 | `6af215966fc14cd1ce0b6289` | `4613478436` | Family Cruise 2027 (`4609487330`) |
+| Anniversary Cruise | `6af21598823b7dd96904f8f9` | `4613486460` | Anniversary Cruise (`4613023056`) |
+| Girls Trip 2027 | `6af21599823b7dd96904f8fc` | `4613489848` | Girls Trip (`4610978521`) |
 
 **Product:** Kiss-Cut Stickers (#400), Printify Choice. Sizes 3" and 4" are on; 2" and 6" are off.
 **Real Printify cost:** 3" **$1.14**, 4" **$1.44**. US shipping **$4.59** first sticker, **$0.09** each extra.
@@ -14,7 +14,14 @@ Three personalized Kiss-Cut stickers, created as **Printify drafts** (not publis
 
 ---
 
-## Before you publish (Printify)
+## Personalized orders (every sticker order)
+
+Kiss-Cut stickers allow only 1 layer in Printify, so names can't be a Printify text layer.
+Buyers type names in Etsy's required personalization box; with Printify **Order approval: Manual**,
+each order waits. Send Claude the name(s), get the named print file, replace the design on that order
+in Printify, then approve.
+
+## Before you publish (Printify) — done
 
 1. Open each draft. Add a **Personalization text layer** on the banner/name area, the same as the shirt:
    - Family Cruise: font **Anordighos**, navy `#1d3557`. Center it in the sunset circle (The / Smith / Family).

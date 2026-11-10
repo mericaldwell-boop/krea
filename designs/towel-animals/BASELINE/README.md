@@ -11,6 +11,8 @@ Grandma turtle) at full print quality in Canva or Photopea. The current files
 | `LAYOUT-GUIDE_4500x5400.png` | Full-size canvas with a box for every element, plus the sunset circle in place |
 | `LAYOUT-GUIDE_with-current-design.png` | Same guide with the current Dad design faded underneath, so you can match it |
 | `sunset-circle_2460px.png` | Clean, sharp sunset circle (transparent PNG), ready to drop in |
+| `baseline_dad-elephant_4500x5400.png` (and `_mom-swan`, `_kiddo-monkey`, `_grandma-turtle`) | One file per animal at full canvas size, transparent, with the **name area left empty**. The art is the current low-res design enlarged: a placement reference to redraw over, not final art |
+| `baseline_*_GUIDE.jpg` | Same, on white, with a box showing where the personalized name goes |
 | `sunset-circle.svg` | Same circle as a vector, so it can be scaled to any size with no blur |
 
 ## Canvas
@@ -26,7 +28,7 @@ Grandma turtle) at full print quality in Canva or Photopea. The current files
 | Year "2027" | centered, top ≈ 1350 | ≈ 1000 × 300 |
 | Sunset circle | center (2250, 3024) | 2460 wide; bottom cut flat at y ≈ 3957 |
 | Towel animal | centered on the circle, top ≈ 1650 | up to ≈ 2700 × 2700; can overlap the circle's bottom edge |
-| Title label "• DAD •" | centered, top ≈ 4470 | ≈ 360 tall; width depends on the word |
+| Personalized name | centered, top ≈ 4470 | ≈ 360 tall, up to ≈ 4000 wide. **Leave empty in your file.** It's added as a Printify text layer (shirts) or per order (stickers) |
 
 ## Colors
 

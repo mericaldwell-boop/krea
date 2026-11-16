@@ -218,7 +218,7 @@ Fill in every one Etsy offers. Each is a free search filter you can show up unde
 ---
 
 ## 4. Girls Trip Badge (Pink & Yellow Chairs)
-Listing: https://www.etsy.com/listing/4611665839
+Listing: https://www.etsy.com/listing/4618337932
 
 ### Title
 ```

@@ -15,6 +15,7 @@ Usage:
   etsy.py update <listing_id> <json-file>   PATCH title/description/tags/etc.
   etsy.py add-image <listing_id> <path> [rank]
   etsy.py images <listing_id>
+  etsy.py rank-image <listing_id> <listing_image_id> <rank>
   etsy.py delete-image <listing_id> <listing_image_id>
   etsy.py add-file <listing_id> <path> [name]
   etsy.py sections                          list shop sections
@@ -134,6 +135,10 @@ def main(a):
         data = {"rank": rank} if rank else {}
         with open(a[2], "rb") as f:
             r = call("POST", f"/shops/{shop_id()}/listings/{a[1]}/images", files={"image": f}, data=data)
+        print("image", r.get("listing_image_id"), "rank", r.get("rank"))
+    elif cmd == "rank-image":
+        r = call("POST", f"/shops/{shop_id()}/listings/{a[1]}/images",
+                 data={"listing_image_id": a[2], "rank": a[3]})
         print("image", r.get("listing_image_id"), "rank", r.get("rank"))
     elif cmd == "images":
         for i in call("GET", f"/listings/{a[1]}/images")["results"]:
